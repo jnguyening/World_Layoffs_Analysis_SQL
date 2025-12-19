@@ -1,4 +1,4 @@
-# Global Layoffs Analysis using SQL and Tableau
+# Global Layoffs Analysis: Data Cleaning & Exploratory Data Analysis (EDA)
 
 
 ## Overview
